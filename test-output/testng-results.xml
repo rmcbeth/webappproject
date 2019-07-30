@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-07-29T14:16:16Z" name="Default suite" finished-at="2019-07-29T14:16:30Z" duration-ms="14043">
+  <suite started-at="2019-07-30T22:25:30Z" name="Default suite" finished-at="2019-07-30T22:26:03Z" duration-ms="32742">
     <groups>
     </groups>
-    <test started-at="2019-07-29T14:16:16Z" name="Default test" finished-at="2019-07-29T14:16:30Z" duration-ms="14043">
+    <test started-at="2019-07-30T22:25:30Z" name="Default test" finished-at="2019-07-30T22:26:03Z" duration-ms="32742">
+      <class name="webapptestNG.addtest3">
+        <test-method signature="growerlogin()[pri:0, instance:webapptestNG.addtest3@6646153]" started-at="2019-07-30T22:25:30Z" name="growerlogin" finished-at="2019-07-30T22:25:45Z" duration-ms="15137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- growerlogin -->
+      </class> <!-- webapptestNG.addtest3 -->
+      <class name="webapptestNG.addtest1">
+        <test-method signature="verifyurl()[pri:0, instance:webapptestNG.addtest1@21507a04]" started-at="2019-07-30T22:25:45Z" name="verifyurl" finished-at="2019-07-30T22:25:49Z" duration-ms="4068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyurl -->
+      </class> <!-- webapptestNG.addtest1 -->
       <class name="webapptestNG.addtest">
-        <test-method signature="launch()[pri:0, instance:webapptestNG.addtest@55a561cf]" started-at="2019-07-29T14:16:16Z" name="launch" finished-at="2019-07-29T14:16:30Z" duration-ms="14022" status="PASS">
+        <test-method signature="launch()[pri:0, instance:webapptestNG.addtest@143640d5]" started-at="2019-07-30T22:25:49Z" name="launch" finished-at="2019-07-30T22:26:03Z" duration-ms="13508" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->

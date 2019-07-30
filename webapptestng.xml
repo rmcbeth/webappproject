@@ -4,7 +4,7 @@
 <classes>
 
 <class name="TestNG.addtest.java"></class>
-
+<class name="TestNG.addtest1.java"></class>
 </classes>
 </test>
 </suite>
