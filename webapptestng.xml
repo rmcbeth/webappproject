@@ -5,6 +5,7 @@
 
 <class name="TestNG.addtest.java"></class>
 <class name="TestNG.addtest1.java"></class>
+<class name="TestNG.addtest3.java"></class>
 </classes>
 </test>
 </suite>
